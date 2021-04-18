@@ -1,0 +1,54 @@
+/*
+====================================================
+***************** Google Fonts ********************
+====================================================
+*/
+
+/* Open Sans google font*/
+@font-face{
+    font-family:'OpenSans';
+    src: url('../google-fonts/OpenSans-Light.ttf');
+    font-weight: 300;
+}
+@font-face{
+    font-family:'OpenSans';
+    src: url('../google-fonts/OpenSans-Regular.ttf');
+    font-weight: 400;
+}
+@font-face{
+    font-family:'OpenSans';
+    src: url('../google-fonts/OpenSans-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face{
+    font-family:'OpenSans';
+    src: url('../google-fonts/OpenSans-Bold.ttf');
+    font-weight: 700;
+}
+
+/*Montserrat google font*/
+@font-face{
+    font-family:'Montserrat';
+    src: url('../google-fonts/Montserrat-Light.ttf');
+    font-weight:300;
+}
+@font-face{
+    font-family:'Montserrat';
+    src: url('../google-fonts/Montserrat-Regular.ttf');
+    font-weight:400;
+}
+@font-face{
+    font-family:'Montserrat';
+    src: url('../google-fonts/Montserrat-Medium.ttf');
+    font-weight:500;
+}
+@font-face{
+    font-family:'Montserrat';
+    src: url('../google-fonts/Montserrat-SemiBold.ttf');
+    font-weight:600;
+}
+@font-face{
+    font-family:'Montserrat';
+    src: url('../google-fonts/Montserrat-Bold.ttf');
+    font-weight:700;
+}
